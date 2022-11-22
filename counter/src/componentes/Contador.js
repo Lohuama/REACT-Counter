@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import {ContadorContexto} from '../ContadorContexto'
 
 function Contador(props){
 
